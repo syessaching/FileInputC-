@@ -3,17 +3,17 @@
 
 using namespace std;
 
+//class definition for Employee
 class Employee
 {
 private:
     string name;
     int id;
-    double salary;  
     string job;
     int year;
     int age;
 
-public:
+public: // constructor and function for our class
     Employee(string, int, int, string, int);
     void printInfo();
 };
