@@ -1,0 +1,101 @@
+100
+Kamakani Kyhyrymi|58|26|Network Administrator|2016
+Maleah Jyzozolo|39|64|Computer Forensic Investigator|2004
+Mele Gywipega|31|54|Data Analyst|1991
+Kiona Kobute|46|22|Chief Information Officer|2021
+Kekoa Fizikuli|27|63|Data Analyst|2002
+Nani Sarola|57|20|Project Manager|2022
+Kaleo Javowuwa|87|57|Systems Analyst|1990
+Kalia Vemege|94|58|Chief Technology Officer|2008
+Keanu Tudema|5|36|Cloud System Engineer|2019
+Lanah Liwevo|26|45|Computer Forensic Investigator|1999
+Mana Lizisezi|52|63|IT Technician|2001
+Akela Powa|67|32|Artificial Inteligence Engineer|2011
+Kiana Pifuryro|64|45|Machine Learning Specialist|2019
+Kawaii Ficanuce|95|23|Web Developer|2019
+Keo Musa|97|53|Programmer|2002
+Kiona Jalifoto|11|46|Data Analyst|2014
+Aolani Ritynony|79|38|Cyber Security Analyst|2006
+Kalama Kykukivy|56|61|Web Analytics Developer|1995
+Kalai Reme|83|31|Project Manager|2014
+Kamakani Gagyza|68|23|Systems Administrator|2019
+Eleu Boku|38|35|Project Manager|2009
+Mahina Tekupu|3|34|Systems Analyst|2013
+Nohokai Bybo|20|21|Machine Learning Specialist|2021
+Kekoa Guho|42|41|Web Developer|2002
+Keo Sutule|47|26|Computer Forensic Investigator|2018
+Kahale Wybasyti|66|29|IT Technician|2015
+Kehlani Pajujyzu|80|55|Graphic Designer|2012
+Nani Mykaheza|61|36|Web Developer|2016
+Akela Bibagavu|82|58|Web Developer|2007
+Aolani Dujedo|7|40|Data Analyst|2006
+Kanoa Putulaty|76|37|Information Security Analyst|2013
+Keiki Jixamite|91|43|Cloud System Engineer|2005
+Haku Faxecopo|19|57|Artificial Inteligence Engineer|2000
+Kahale Fybe|89|41|QA Tester|2004
+Makoa Gevisina|70|34|Data Analyst|2009
+Nalunani Korezepa|12|44|Network Administrator|2005
+Kiona Lilume|1|61|Ethical Hacker|1999
+Kamakani Cakymocy|6|58|Systems Analyst|1985
+Kainoa Gohanexa|30|29|IT Technician|2020
+Keilani Xasitu|22|29|Information Security Analyst|2013
+Kaleo Fazazyxu|85|56|Graphic Designer|2008
+Malia Jidoda|48|30|Ethical Hacker|2013
+Kailano Sihasu|49|46|Web Developer|2014
+Kapua Pukysyky|15|60|QA Tester|2020
+Kalia Jigukufa|65|33|Web Analytics Developer|2011
+Kekoa Covupu|78|40|Computer Forensic Investigator|2004
+Kai Kabewi|99|45|Systems Analyst|2018
+Maleah Kukoguny|28|49|Information Security Analyst|1999
+Khalani Kesofi|24|50|IT Technician|2018
+Nohokai Hysasehe|81|39|Chief Information Officer|2006
+Lanah Lyjygumu|21|51|Project Manager|1993
+Kalai Vere|60|49|Web Analytics Developer|2014
+Kahili Gafuxa|98|32|Machine Learning Specialist|2016
+Oleen Ruli|71|35|Data Analyst|2012
+Keanu Kidozasa|59|53|Information Security Analyst|2019
+Alane Dalopyxy|10|60|Web Analytics Developer|2004
+Kahale Syba|63|49|Machine Learning Specialist|1993
+Kapua Pucy|14|37|QA Tester|2018
+Nohokai Xycemo|50|52|Cloud System Engineer|2015
+Makoa Guni|73|61|Web Developer|1998
+Alayna Mazu|18|58|Network Administrator|2000
+Keo Rynibo|16|28|Programmer|2017
+Keoni Nokuwevy|77|59|Computer Forensic Investigator|2015
+Nani Fujava|29|53|Systems Analyst|1992
+Leilani Zunuju|93|38|Systems Administrator|2004
+Kekoa Raxufy|25|21|Data Analyst|2021
+Kamakani Fovimohy|40|36|Systems Analyst|2013
+Kainoa Tojozebu|86|63|Computer Forensic Investigator|2006
+Lanah Gomywu|92|61|Information Security Analyst|1987
+Moana Kiwygu|53|41|Data Analyst|2005
+Kapueo Bofe|33|27|IT Technician|2017
+Khalani Wima|23|46|Data Analyst|2018
+Keanu Jutumi|44|25|Machine Learning Specialist|2019
+Nainoa Vizafa|13|29|Systems Administrator|2020
+Kalama Rulojibo|90|27|Computer Forensic Investigator|2019
+Kalai Pajypihe|2|26|Data Analyst|2017
+Leilani Pulyvocu|75|54|Cloud System Engineer|1994
+Ohana Zelowe|17|51|Data Analyst|2001
+Kaleo Muwaxu|84|28|Cloud System Engineer|2020
+Oleen Modiduty|36|40|Machine Learning Specialist|2012
+Keoni Mufu|72|36|Chief Information Officer|2008
+Malia Fodivobi|32|25|Web Analytics Developer|2018
+Nani Behoke|88|56|Information Security Analyst|1986
+Alani Gavery|37|34|Systems Administrator|2008
+Kamakani Tyrowono|51|28|Project Manager|2014
+Keilani Rykyle|69|35|Data Analyst|2020
+Keoni Davijogy|96|57|Computer Forensic Investigator|1997
+Eleu Sydyfude|4|54|Network Administrator|1993
+Kimo Nihitu|43|51|Systems Administrator|2005
+Kalani Vihutaxa|55|60|Computer Forensic Investigator|1992
+Lehua Rysunylu|62|20|Ethical Hacker|2022
+Kapueo Bito|9|37|Artificial Inteligence Engineer|2007
+Honi Tupiwide|8|56|Chief Information Officer|1993
+Akela Jesa|34|64|Chief Information Officer|2006
+Keoni Gumufuto|54|38|Data Analyst|2011
+Keanu Nodigaju|45|35|Chief Information Officer|2012
+Nohokai Cunywyzo|100|27|Systems Analyst|2017
+Maleah Vykevo|35|24|Programmer|2019
+Pali Rakedido|41|33|Chief Information Officer|2011
+Oleen Hyzejeri|74|42|Systems Analyst|2015
